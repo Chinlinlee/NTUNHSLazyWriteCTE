@@ -23,3 +23,16 @@ I:\gitlab\Lazy\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.csproj.Gen
 I:\gitlab\Lazy\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.csproj.CopyComplete
 I:\gitlab\Lazy\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.exe
 I:\gitlab\Lazy\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.pdb
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\Lazy_Write_CTE.exe.config
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\Lazy_Write_CTE.exe
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\Lazy_Write_CTE.pdb
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.csprojAssemblyReference.cache
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.Lazy_Write_CTE_Form.resources
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.Properties.Resources.resources
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.csproj.GenerateResource.cache
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.csproj.CopyComplete
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.exe
+C:\Users\chin\Documents\Zoom\ntunhs_lazy_write_cte\Lazy_Write_CTE\Lazy_Write_CTE\obj\Debug\Lazy_Write_CTE.pdb
